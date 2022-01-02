@@ -14,3 +14,5 @@ I then used the spotipy API to compare the BusinessInsider rank to the popularit
 <img width="562" alt="Screen Shot 2022-01-02 at 5 37 37 PM" src="https://user-images.githubusercontent.com/58821846/147891511-f87fc5f7-35ff-4259-8314-8681af7b200f.png">
 
 Seems to me like the more recent bands are punching above their weight in the popularity category!
+
+The most popular "unique words" are also attached in the file. However, due to the nature of genuius lyric format, the words such as chorus, or band member names may be present as headers within the lyrics and therefore are included within the analysis.
