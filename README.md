@@ -1,7 +1,7 @@
 # RockRankAnalyisis
 An Analysis on the top 100 rock bands of all time, according to BusinessInsider
 
-I first scraped Business Insider's article found here: 
+I first scraped Business Insider's article found here: https://www.businessinsider.com/the-100-most-popular-rock-bands-of-all-time-2018-9
 
 Once I had a list of the "top 100 rock bands", I used the GeniusLyrics API to obtain the top 25 songs for the top 10 bands, then ranked them on unique vocabulary (the number of unique words used in their 25 most popular songs.
 
